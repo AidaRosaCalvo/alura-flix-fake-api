@@ -1,0 +1,28 @@
+{
+  "name": "alura-fake-flix-api",
+  "version": "1.0.0",
+  "description": "API que sirve al proyecto Alura Flix del challenge de Alura Latam",
+  "main": "index.js",
+  "scripts": {
+    "start": "node api/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AidaRosaCalvo/alura-flix-fake-api.git"
+  },
+  "keywords": [
+    "alura",
+    "alura-geek",
+    "json-server",
+    "javascript",
+    "API",
+    "challenge"
+  ],
+  "author": "AidaRosaCalvo",
+  "license": "",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "json-serve": "^0.1.0",
+    "json-server": "^0.17.3"
+  }
+}
